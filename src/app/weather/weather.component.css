@@ -1,0 +1,13 @@
+#weather-container {
+  padding: 2rem;
+}
+#lat {
+  width: 50vw;
+  margin: 1rem auto;
+  padding: 0.5rem;
+}
+#long {
+  width: 50vw;
+  margin: 1rem auto;
+  padding: 0.5rem;
+}
